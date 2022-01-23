@@ -1,0 +1,213 @@
+
+.ditails{
+  margin: 500px;
+  margin-left: 760px;
+font-size: 21px;
+}
+
+.card1 {
+  transition: 0.3s;
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 100px;
+  padding: 100px;
+  font-size: 1rem;
+	text-decoration: none;
+}
+.container1{
+  font-size: 1rem;
+	text-decoration: none;
+  text-align: center;
+  background-color: white;
+
+}
+
+.imgg3{
+  margin: 150px;
+  width: 600px;
+  height: 300px;
+  margin-top: -120px;
+  margin-right: -2000px;
+ 
+}
+.IMG5{
+  height: 100px;
+}
+.imgg4{
+  margin-right: 550px;
+  margin-left: -600px;
+  width: 600px;
+  height: 300px;
+  margin-top: -100px;
+}
+.ditails2{
+margin-right: 1200px;
+margin: 150px;
+margin-top: -300px;
+font-size: 21px;
+}
+.ciy{
+  background-position: center;
+  margin: 0 8%;
+
+}
+.img1{
+  width: 400px;
+  height: 200px;
+}
+.card-img-top1{
+  
+  margin: top -40px;
+ 
+ 
+}
+.main3{
+  align-items: center;
+height: 100%;
+width: 100%;
+}
+.col{
+  margin-left: 90px;
+  width: 300px;
+  align-items: center;
+ 
+}
+
+
+.card-title{
+  text-align: center; 
+
+  margin-top: -10px;
+}
+ .main{
+
+  text-align: center; 
+
+ }
+
+ 
+  
+ 
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-transform: uppercase;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 700;
+}
+
+.img-centered {
+  margin: 0 auto;
+}
+
+.bg-light-gray {
+  background-color: #f7f7f7;
+ align-items: center;
+}
+
+
+section h3.section-subheading {
+  margin-bottom: 75px;
+  text-transform: none;
+  font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+}
+
+@media(min-width:768px) {
+  section {
+      padding: 150px 0;
+  }
+}
+
+
+
+#portfolio * {
+  z-index: 1;
+}
+
+@media(min-width:767px) {
+  #portfolio .portfolio-item {
+      margin: 0 0 30px;
+  }
+}
+
+.intro-header { 
+  padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+  padding-bottom: 50px;
+  text-align: center;
+  background: url('https://res.cloudinary.com/nina07/image/upload/v1477146610/Untitled_design_2_d1xzal.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 855px;
+}
+.bg-overlay {
+background:rgba(0,0,0, 0.3);
+height: 855px;
+}
+
+.intro-message {
+  position: relative;
+  padding-top: 20%;
+  padding-bottom: 20%;
+}
+/*Big header*/
+.intro-message > h1 {
+  margin-top: -50px;
+  text-shadow: 2px 1px 2px #000;
+  font-size: 5em;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.intro-divider {
+  width: 400px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+hr.intro-divider {
+  border: 1px outset rgba(255, 255, 255, 0.2);
+  box-shadow: 1px 1px 1px rgba(0,0,0,0.6);
+  width: 100%;
+}
+
+ 
+form {
+  display:block;
+  width:400px;
+  height:auto;
+  margin:50px auto;
+  padding:9px;
+  border-radius:15px;
+  background-color:rgba(192, 188, 188, 0.918);
+  font-size:16px;
+  font-family:'Arial';
+  color:rgb(7, 7, 7)
+}
+
+.textbox {
+  width:400px;
+  height:auto;
+  margin-left:10px;
+  padding:10px;
+  border:none;
+  border-radius:10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  background-color:#f1f1f1;
+  font-size:16px;
+  color:rgba(0,0,0,0.5);
+  outline: none;
+}
+#demotext1 {
+  text-shadow: 3px 1px 3px #756573;
+ text-align: center;
+font-size: 20px;
+  }
+ 
+
+  
